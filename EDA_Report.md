@@ -112,3 +112,56 @@ The SQL queries are available in:
 The EDA helped identify important sales patterns across categories, genders, cities, and customer-related variables.
 
 The analysis provides useful business insights that can support category-level and city-level sales decisions. The findings will also be useful for developing the dashboard and deeper analysis in the upcoming internship tasks.
+
+
+
+## Task 2: Exploratory Data Analysis (EDA) & Business Intelligence
+
+### Project Overview
+This project is part of the ApexPlanet Data Analytics Internship. The goal is to analyze an e-commerce sales dataset, identify trends, answer business questions, and present useful business insights.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Microsoft SQL Server (SSMS)
+- Microsoft Excel
+- GitHub
+
+### Dataset
+- 1,000 records
+- 13 columns
+- Cleaned dataset prepared during Task 1
+
+### Analysis Performed
+- Descriptive statistics
+- Sales analysis by category, gender, and city
+- Quantity analysis by product category
+- Correlation analysis
+- Scatter plots and pair plot
+- Correlation heatmap
+- Seven SQL business questions
+- Excel dashboard chart
+
+### Key Business Insights
+- Electronics generated the highest total sales.
+- Electronics had the highest quantity sold.
+- Grocery had the highest average sales per order.
+- Male customers generated higher overall sales than female customers.
+- Patna recorded the highest total sales among the cities.
+- Quantity and Unit Price showed positive relationships with Total Sales.
+- Age showed almost no relationship with Total Sales.
+
+### Project Files
+- `ApexPlanet_Task1_Final_Cleaned.csv` — cleaned dataset
+- `ApexPlanet_Task2_Business_Questions.sql` — SQL business questions
+- `EDA_Report.md` — detailed EDA report
+- `Correlation_Heatmap.png` — correlation visualization
+- `Quantity_vs_Total_Sales.png` — scatter plot
+- `Unit_Price_vs_Total_Sales.png` — scatter plot
+- `Pair_Plot_Ecommerce_Sales.png` — pair plot
+- `ApexPlanet_Task2_Dashboard.xlsx` — Excel dashboard
+
+### Conclusion
+This project helped strengthen practical skills in exploratory data analysis, SQL, data visualization, and business intelligence. The findings can support further analysis and dashboard development.
